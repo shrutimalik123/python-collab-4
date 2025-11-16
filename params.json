@@ -1,0 +1,14 @@
+{
+    "model_type": "LogisticRegression",
+    "hyperparameters": {
+        "penalty": "l2",
+        "C": 1.0,
+        "solver": "lbfgs",
+        "max_iter": 100
+    },
+    "feature_list": [
+        "feature1",
+        "feature2",
+        "feature3"
+    ]
+}
